@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ShubhamWP07
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning BCA
-- 📫 How to reach me, Email-shubham1900384@gmail.com
+- 👋 Hi, I’m Shubham chaudhary
+- 👀 I Write Code
+- 🌱 I'm aspiring Fullstack javascript developer 
+- 📫 How to reach me, Email-contactmeshubhamkr@gmail.com
 
 <!---
 ShubhamWP07/ShubhamWP07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
