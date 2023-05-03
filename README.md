@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubham chaudhary
 - 👀 I Write Code
-- 🌱 I'm aspiring Fullstack javascript developer 
+- 🌱 I'm Front-end javascript developer 
 - 📫 How to reach me, Email-contactmeshubhamkr@gmail.com
 
 <!---
