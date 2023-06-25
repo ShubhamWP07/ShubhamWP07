@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shubham chaudhary
+- 👋 Hi, I’m Shubham Choudhary
 - 👀 I Write Code
 - 🌱 I'm a Front-end Engineer 
 - 📫 How to reach me, Email-contactmeshubhamkr@gmail.com
